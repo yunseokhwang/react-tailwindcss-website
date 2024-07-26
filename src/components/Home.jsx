@@ -14,11 +14,11 @@ const Home = () => {
         items-center justify-center h-full px-4 md:flex-row">
             <div className="flex flex-col justify-center h-full">
                 <h2 className="text-4xl sm:text-7xl font-bold text-white">
-                    I'm a Student Developer
+                    I'm a Software Engineer
                 </h2>
                 <p className="text-gray-500 py-4 max-w-md">
-                I am an aspiring Software Engineer with a strong background in visual design and experience in frontend development.
-                My career interests include full-stack development, machine learning, and artificial intelligence.
+                I am an aspiring Software Engineer with a strong background in software development and a keen interest in artificial intelligence and machine learning.
+                My experience includes frontend development and visual design, with a career focus on full-stack development and leveraging AI to create innovative solutions.
                 </p>
 
                 <div>

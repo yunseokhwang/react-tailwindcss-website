@@ -23,7 +23,7 @@ const SocialLinks = () => {
                 GitHub <FaGithub size={30} />
                 </>
             ),
-            href: 'https://github.com/yunseokhwang',
+            href: 'https://github.com/hwangyunseok',
         },
         {
             id: 3,
@@ -32,7 +32,7 @@ const SocialLinks = () => {
                 Email me! <HiOutlineMail size={30} />
                 </>
             ),
-            href: 'mailto: yunseok@unc.edu',
+            href: 'mailto: hwangyunseok0@gmail.com',
         },
         {
             id: 4,
@@ -41,7 +41,7 @@ const SocialLinks = () => {
                 Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: '/resume.pdf',
+            href: 'https://drive.google.com/file/d/17gifzdjkCsUuN7lB4MhQsRp11ESgL0yp/view',
             style: 'rounded-br-md',
             download: true,   
         }
